@@ -1,0 +1,87 @@
+[
+{
+  "directory": "/home/lian/MYMUDUO/build",
+  "command": "/usr/bin/g++  -Dmymuduo_EXPORTS  -g -fPIC   -o CMakeFiles/mymuduo.dir/Acceptor.o -c /home/lian/MYMUDUO/Acceptor.cc",
+  "file": "/home/lian/MYMUDUO/Acceptor.cc"
+},
+{
+  "directory": "/home/lian/MYMUDUO/build",
+  "command": "/usr/bin/g++  -Dmymuduo_EXPORTS  -g -fPIC   -o CMakeFiles/mymuduo.dir/Buffer.o -c /home/lian/MYMUDUO/Buffer.cc",
+  "file": "/home/lian/MYMUDUO/Buffer.cc"
+},
+{
+  "directory": "/home/lian/MYMUDUO/build",
+  "command": "/usr/bin/g++  -Dmymuduo_EXPORTS  -g -fPIC   -o CMakeFiles/mymuduo.dir/Channel.o -c /home/lian/MYMUDUO/Channel.cc",
+  "file": "/home/lian/MYMUDUO/Channel.cc"
+},
+{
+  "directory": "/home/lian/MYMUDUO/build",
+  "command": "/usr/bin/g++  -Dmymuduo_EXPORTS  -g -fPIC   -o CMakeFiles/mymuduo.dir/CurrentThread.o -c /home/lian/MYMUDUO/CurrentThread.cc",
+  "file": "/home/lian/MYMUDUO/CurrentThread.cc"
+},
+{
+  "directory": "/home/lian/MYMUDUO/build",
+  "command": "/usr/bin/g++  -Dmymuduo_EXPORTS  -g -fPIC   -o CMakeFiles/mymuduo.dir/DefautPoller.o -c /home/lian/MYMUDUO/DefautPoller.cc",
+  "file": "/home/lian/MYMUDUO/DefautPoller.cc"
+},
+{
+  "directory": "/home/lian/MYMUDUO/build",
+  "command": "/usr/bin/g++  -Dmymuduo_EXPORTS  -g -fPIC   -o CMakeFiles/mymuduo.dir/EPollPoller.o -c /home/lian/MYMUDUO/EPollPoller.cc",
+  "file": "/home/lian/MYMUDUO/EPollPoller.cc"
+},
+{
+  "directory": "/home/lian/MYMUDUO/build",
+  "command": "/usr/bin/g++  -Dmymuduo_EXPORTS  -g -fPIC   -o CMakeFiles/mymuduo.dir/EventLoop.o -c /home/lian/MYMUDUO/EventLoop.cc",
+  "file": "/home/lian/MYMUDUO/EventLoop.cc"
+},
+{
+  "directory": "/home/lian/MYMUDUO/build",
+  "command": "/usr/bin/g++  -Dmymuduo_EXPORTS  -g -fPIC   -o CMakeFiles/mymuduo.dir/EventLoopThread.o -c /home/lian/MYMUDUO/EventLoopThread.cc",
+  "file": "/home/lian/MYMUDUO/EventLoopThread.cc"
+},
+{
+  "directory": "/home/lian/MYMUDUO/build",
+  "command": "/usr/bin/g++  -Dmymuduo_EXPORTS  -g -fPIC   -o CMakeFiles/mymuduo.dir/EventLoopThreadPool.o -c /home/lian/MYMUDUO/EventLoopThreadPool.cc",
+  "file": "/home/lian/MYMUDUO/EventLoopThreadPool.cc"
+},
+{
+  "directory": "/home/lian/MYMUDUO/build",
+  "command": "/usr/bin/g++  -Dmymuduo_EXPORTS  -g -fPIC   -o CMakeFiles/mymuduo.dir/InetAddress.o -c /home/lian/MYMUDUO/InetAddress.cc",
+  "file": "/home/lian/MYMUDUO/InetAddress.cc"
+},
+{
+  "directory": "/home/lian/MYMUDUO/build",
+  "command": "/usr/bin/g++  -Dmymuduo_EXPORTS  -g -fPIC   -o CMakeFiles/mymuduo.dir/Logger.o -c /home/lian/MYMUDUO/Logger.cc",
+  "file": "/home/lian/MYMUDUO/Logger.cc"
+},
+{
+  "directory": "/home/lian/MYMUDUO/build",
+  "command": "/usr/bin/g++  -Dmymuduo_EXPORTS  -g -fPIC   -o CMakeFiles/mymuduo.dir/Poller.o -c /home/lian/MYMUDUO/Poller.cc",
+  "file": "/home/lian/MYMUDUO/Poller.cc"
+},
+{
+  "directory": "/home/lian/MYMUDUO/build",
+  "command": "/usr/bin/g++  -Dmymuduo_EXPORTS  -g -fPIC   -o CMakeFiles/mymuduo.dir/Socket.o -c /home/lian/MYMUDUO/Socket.cc",
+  "file": "/home/lian/MYMUDUO/Socket.cc"
+},
+{
+  "directory": "/home/lian/MYMUDUO/build",
+  "command": "/usr/bin/g++  -Dmymuduo_EXPORTS  -g -fPIC   -o CMakeFiles/mymuduo.dir/TcpConnection.o -c /home/lian/MYMUDUO/TcpConnection.cc",
+  "file": "/home/lian/MYMUDUO/TcpConnection.cc"
+},
+{
+  "directory": "/home/lian/MYMUDUO/build",
+  "command": "/usr/bin/g++  -Dmymuduo_EXPORTS  -g -fPIC   -o CMakeFiles/mymuduo.dir/TcpServer.o -c /home/lian/MYMUDUO/TcpServer.cc",
+  "file": "/home/lian/MYMUDUO/TcpServer.cc"
+},
+{
+  "directory": "/home/lian/MYMUDUO/build",
+  "command": "/usr/bin/g++  -Dmymuduo_EXPORTS  -g -fPIC   -o CMakeFiles/mymuduo.dir/Thread.o -c /home/lian/MYMUDUO/Thread.cc",
+  "file": "/home/lian/MYMUDUO/Thread.cc"
+},
+{
+  "directory": "/home/lian/MYMUDUO/build",
+  "command": "/usr/bin/g++  -Dmymuduo_EXPORTS  -g -fPIC   -o CMakeFiles/mymuduo.dir/Timestamp.o -c /home/lian/MYMUDUO/Timestamp.cc",
+  "file": "/home/lian/MYMUDUO/Timestamp.cc"
+}
+]
